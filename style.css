@@ -1,0 +1,12 @@
+.dashboard-title{
+    font-weight: 500;
+}
+
+.card-value {
+    font-weight: 200;
+    font-size: 28px;
+}
+
+.fa-angle-up {
+    margin-right: 5px !important;
+}
